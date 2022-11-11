@@ -30,3 +30,5 @@ List of cool and awesome APIs
 [GraceNote](https://developer.gracenote.com/): Want your app to identify music playing in the background? Want your app to figure out more information about a specific song? Instead of figuring out how to implement music recognition yourself, you can check out GraceNote's API!
 
 [Mashery](http://www.mashery.com/) and [Mashape](https://www.mashape.com/): Can't find the api you are looking for? Mashery and Mashape powers many apis out there (face recognition, video content recognition, etc) so you can discover more apis on their site.
+
+[Linx](http://linx.software/) General-purpose low-code platform to build, extend and host REST & SOAP web services.
